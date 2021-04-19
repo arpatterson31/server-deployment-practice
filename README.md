@@ -39,5 +39,3 @@ Application development in the Node.js ecosystem, including the writing of modul
 ### CI/CD - Continuous Integration and Deployment
 
 In your lab today, you'll be doing a full "professional" deployment using 2 branches, PR's, and a continuous process to get your code deployed.
-=======
-
