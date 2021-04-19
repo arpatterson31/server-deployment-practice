@@ -2,10 +2,14 @@
 
 - Author: Audrey Patterson
 
-## Heroku deploy to Dev
+## Heroku deployments
 
-## Heroku deploy to Porduction
+- [Dev Branch](https://audrey-server-deploy-dev.herokuapp.com/)
+
+- [Main Branch](https://audrey-server-deploy-prod.herokuapp.com/)
 
 ## Github Actions
+
+- [Dev Branch](https://github.com/arpatterson31/server-deployment-practice/runs/2385701636)
 
 ## Pull Request
